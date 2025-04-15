@@ -7,6 +7,6 @@ services:
     startCommand: "uvicorn app:app --host 0.0.0.0 --port 10000"
     envVars:
       - key: API_KEY
-        value: your_secure_api_key_here
+        value: DASdK7xwX9hMyPiTyYyk5kpgk58uCo2EcMnEJHryW54
       - key: EMAIL_PASSWORD
         value: pptsbbotjoqgwdkp
